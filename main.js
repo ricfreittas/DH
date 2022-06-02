@@ -62,3 +62,9 @@ addNewPost.addEventListener('click', (evento) => {
  })
 
 
+// Membros GRUPO
+// Ricardo de Freitas 
+// Daniele Mendes
+// Josemar Silva Nascimento
+// Luiz Vagner da Silva
+// Natali de Souza
